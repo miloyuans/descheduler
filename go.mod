@@ -136,3 +136,4 @@ require (
 )
 
 replace k8s.io/kube-openapi => k8s.io/kube-openapi v0.0.0-20250710124328-f3f2b991d03b
+replace sigs.k8s.io/descheduler => ./
