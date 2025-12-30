@@ -1,0 +1,15 @@
+# See the OWNERS docs at https://go.k8s.io/owners#owners_aliases
+
+aliases:
+  kubernetes/enhancements-admins:
+    - justaugustus
+    - mrbobbytables
+    - johnbelamaric
+    - jeremyrickard
+  sig-release-leads:
+    - cpanato
+    - jeremyrickard
+    - justaugustus
+    - LappleApple
+    - puerco
+    - saschagrunert

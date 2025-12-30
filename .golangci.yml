@@ -1,0 +1,18 @@
+run:
+  timeout: 5m
+
+linters:
+  disable-all: true
+  enable:
+    - gofmt
+    - gofumpt
+    - gosimple
+    - gocyclo
+    - misspell
+    - govet
+
+linters-settings:
+  gofumpt:
+    extra-rules: true
+  goimports:
+    local-prefixes: sigs.k8s.io/descheduler
